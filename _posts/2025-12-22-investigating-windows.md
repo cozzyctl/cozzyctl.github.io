@@ -1,7 +1,7 @@
 ---
 title: "Investigating Windows"
 categories:
-  - Blog
+  - htb
 tags:
   - HackTheBox
 ---

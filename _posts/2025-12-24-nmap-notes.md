@@ -1,7 +1,7 @@
 ---
 title: "nmap notes"
 categories:
-  - Blog
+  - notes
 tags:
   - tooling notes
 ---
